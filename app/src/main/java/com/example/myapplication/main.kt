@@ -2,5 +2,5 @@ package com.example.myapplication
 
 fun main()
 {
-    print("world")
+    print("My world")
 }
